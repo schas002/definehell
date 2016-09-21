@@ -52,7 +52,7 @@
 #define wane )
 #define doing ) {
 #define pointer *
-#define value &
+#define address &
 
 // variable hell
 #define now =
