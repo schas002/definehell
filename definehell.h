@@ -38,7 +38,6 @@
 // stdio.h hell
 #define print printf(
 #define input scanf(
-#define pointer &
 
 // symbol hell
 #define yes 1
@@ -52,6 +51,8 @@
 #define wax (
 #define wane )
 #define doing ) {
+#define pointer *
+#define value &
 
 // variable hell
 #define now =
