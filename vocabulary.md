@@ -3,6 +3,7 @@
 To use any of the words below, you must `#include "definehell.h"`, ensuring that it is available in your include path.
 
 ## A
+- `address` is for `&`, the address of operator
 - `also` is for `,`, the comma for dividing function arguments
 - `atleast` is for `>=`, the conditional for more-than or equal
 - `atmost` is for `<=`, the conditional for less-than or equal
@@ -64,7 +65,6 @@ To use any of the words below, you must `#include "definehell.h"`, ensuring that
 - `truthy` is for `!= 0`, because an integer not 0 is truthy
 ## U
 ## V
-- `value` is for `&`, the value operator
 ## W
 - `wane` is for `)`, that's how the closing parenthesis is called<sup>[[1]][1]</sup>
 - `wax` is for `(`, that's how the opening parenthesis is called<sup>[[1]][1]</sup>
