@@ -15,8 +15,8 @@
 #define octupled * 8
 #define enntupled * 9
 #define dectupled * 10
-#define half / 2
-#define quarter / 4
+#define halved / 2
+#define quartered / 4
 #define increment ++
 #define decrement --
 
