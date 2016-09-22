@@ -35,6 +35,9 @@
 #define yea return 0;
 #define nay return 1;
 
+// loop hell
+#define forever for(;;)
+
 // stdio.h hell
 #define print printf(
 #define input scanf(
@@ -52,7 +55,7 @@
 #define wane )
 #define doing ) {
 #define pointer *
-#define address &
+#define value &
 
 // variable hell
 #define now =
