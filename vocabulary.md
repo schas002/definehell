@@ -5,11 +5,13 @@ To use any of the words below, you must `#include "definehell.h"`, ensuring that
 ## A
 - `address` is for `&`, the address of operator
 - `also` is for `,`, the comma for dividing function arguments
+- `array` is for `number pointer`, a pointer or an array
 - `atleast` is for `>=`, the conditional for more-than or equal
 - `atmost` is for `<=`, the conditional for less-than or equal
 ## B
 - `begin` is for `{`, for beginning a code block
 ## C
+- `character` is for `char`, the character type
 ## D
 - `decrement` is for `--`, the decrement operation
 - `dectupled` is for `* 10`, multiplication by 10
@@ -43,6 +45,7 @@ To use any of the words below, you must `#include "definehell.h"`, ensuring that
 - `next` is for `;`, to finish an instruction
 - `no` is for `0`, a falsy value
 - `now` is for `=`, the assignment operator
+- `number` if for `int`, the integer type
 ## O
 - `octupled` is for `* 8`, multiplication by 8
 ## P
@@ -57,6 +60,7 @@ To use any of the words below, you must `#include "definehell.h"`, ensuring that
 ## R
 ## S
 - `so` is for `);`, to finish a function instruction
+- `string` is for `character pointer`, a pointer or a string
 - `subtract` is for `-`, the subtraction operator
 ## T
 - `then` is for `{`, somehow related to `if`s

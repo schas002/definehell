@@ -54,5 +54,11 @@
 #define pointer *
 #define address &
 
+// type hell
+typedef int number;
+typedef char character;
+typedef number pointer array;
+typedef character pointer string;
+
 // variable hell
 #define now =
